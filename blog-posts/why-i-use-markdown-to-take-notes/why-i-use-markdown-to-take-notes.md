@@ -3,7 +3,7 @@ published: true
 title: 'Why I use Markdown to take notes'
 cover_image: 'https://raw.githubusercontent.com/Kvanrooyen/dev.to/master/blog-posts/why-i-use-markdown-to-take-notes/assets/notes.jpg'
 description: 'Using Markdown to take notes'
-tags: firstpost, markdown, devto, blogpost, notes
+tags: firstpost, markdown, devto, blogpost
 series:
 canonical_url:
 ---
