@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: 'How do you explain your excitment, when you fix that bug?'
 cover_image: 'https://raw.githubusercontent.com/Kvanrooyen/dev.to/master/blog-posts/why-i-use-markdown-to-take-notes/assets/notes.jpg'
 description: ''
