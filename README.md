@@ -6,3 +6,4 @@ https://dev.to/kvanrooyen
 
 - [Why I use Markdown to take notes](https://dev.to/kvanrooyen/why-i-use-markdown-to-take-notes-5fpl)
 - [How do you explain your excitment when you fix that bug?](https://dev.to/kvanrooyen/how-do-you-explain-your-excitment-when-you-fix-that-bug-2i8n)
+- [How do you take notes?](https://dev.to/kvanrooyen/how-do-you-make-notes-3444)
