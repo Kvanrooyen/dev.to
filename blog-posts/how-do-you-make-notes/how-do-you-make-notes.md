@@ -1,7 +1,7 @@
 ---
 published: true
 title: 'How do you make notes?'
-cover_image: './blog-posts/how-do-you-make-notes/assets/notes-todo.jpg'
+cover_image: 'https://raw.githubusercontent.com/Kvanrooyen/dev,to/master/blog-posts/how-do-you-make-notes/assets/notes-todo.png'
 description: ''
 tags: discussion
 series:
