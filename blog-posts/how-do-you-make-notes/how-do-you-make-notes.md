@@ -3,7 +3,7 @@ published: true
 title: 'How do you make notes?'
 cover_image: './blog-posts/how-do-you-make-notes/assets/notes-todo.jpg'
 description: ''
-tags: discussion, notes
+tags: discussion
 series:
 canonical_url:
 ---
