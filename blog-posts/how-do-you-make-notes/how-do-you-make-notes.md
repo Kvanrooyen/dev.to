@@ -13,3 +13,7 @@ I recently wrote a post titled ["Why I use Markdown to take notes"](https://dev.
 Let me give you an example: You are working as normal, and then someone says something important to you. This is something you either need to complete or make note of for the future.
 How would you take note of that? For me, I have post-it notes, and I will write the note on them. I then stick it on my desk in front of me. I have also tried using a To-Do application, like [Microsoft To Do](https://todo.microsoft.com/tasks/).
 I guess I am trying to find a happy medium between the two :man_shrugging:
+
+# Found a typo?
+
+If you've found a typo, a sentence that could be improved or anything else that should be updated on this blog post, you can access it through a git repository and make a pull request. Instead of posting a comment, please go directly to [github.com/Kvanrooyen/dev.to](https://github.com/Kvanrooyen/dev.to) and open a new pull request with your changes.
