@@ -29,7 +29,7 @@ I came across some great looking editors, most of which I can't remember now. Ev
 
 I have now been using Mark Text and Markdown to take notes, for almost 3 months. So far the experience has been incredibly smooth. I have a folder saved in the cloud, which contains all my notes, this folder is also stored locally on my device. This way if I get a new device or need to use another device, all I need to do is install Mark Text and point to the folder with my notes.
 
-I have saved myself a decent amount of time, by switching to Markdown. I know longer need to spend as much time post-meeting, making sure the notes look good and are easy to read/understand. My typing speed seems to have improved as well, so that's always good. :smiley:
+I have saved myself a decent amount of time, by switching to Markdown. I no longer need to spend as much time post-meeting, making sure the notes look good and are easy to read/understand. My typing speed seems to have improved as well, so that's always good. :smiley:
 
 # Found a typo?
 
