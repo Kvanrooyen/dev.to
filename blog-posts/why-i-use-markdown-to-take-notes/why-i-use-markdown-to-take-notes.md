@@ -16,7 +16,7 @@ Before I started using Markdown, I used [OneNote](https://www.microsoft.com/en-i
 
 After using OneNote for about a week of taking notes, I decided that I would try using Markdown. I had some experience with Markdown from GitHub, so I felt comfortable taking notes with it. Markdown seemed like it would help solve my "issues" since I could quickly format the notes (Mainly bolding important things), and focus on taking better notes.
 
-# Choosing and editor
+# Choosing an editor
 
 When it came to choosing a Markdown editor, I had 2 main requirements:
 
